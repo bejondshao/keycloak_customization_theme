@@ -1,0 +1,2 @@
+# keycloak_customization_theme
+Keycloak customization theme
